@@ -4,8 +4,11 @@ paneer
 cheese fry
 
 beans 
-pizzzA
+pizzza
 
 end of the secondbranch file
+
+final copy of merge
+
 
 thankyou
